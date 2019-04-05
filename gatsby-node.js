@@ -43,7 +43,7 @@ exports.createPages = async ({ graphql, actions }) => {
     }
   `)
 
-    postsQuery.data.factory-test.posts.edges.forEach(post => {
+    postsQuery.data.factoryTest.posts.edges.forEach(post => {
       createPage({
         path: post.node.slug,
         component: blogPostTemplate,
