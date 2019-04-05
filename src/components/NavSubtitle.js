@@ -5,7 +5,7 @@ const NavSubtitle = styled.p`
     width: 50%;
     font-size: 1em;
     text-align: center;
-    line-height: 1.64;
+    line-height: 1.84;
     font-family: Avenir, sans-serif;
 `
 

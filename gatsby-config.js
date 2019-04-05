@@ -12,9 +12,9 @@ module.exports = {
     {
       resolve: "gatsby-source-graphql",
       options: {
-        typeName: "SWAPI",
-        fieldName: "swapi",
-        url: "https://api.graphcms.com/simple/v1/swapi",
+        typeName: "FACTORYTEST",
+        fieldName: "factoryTest",
+        url: "https://api.https://api-euwest.graphcms.com/v1/cju4jbrra36z601ghyp8abofs/mastergraphcms.com/simple/v1/swapi",
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
