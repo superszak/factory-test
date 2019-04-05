@@ -1,9 +1,9 @@
 import React from "react"
+import H1 from '../components/H1'
 
 const IndexPage = () => (
   <>
-    <h1>Hi!</h1>
-    <p>This is text for webiste.</p>
+    <H1>Welcome on the blog!</H1>
   </>
 )
 
